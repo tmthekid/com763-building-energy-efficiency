@@ -61,4 +61,4 @@ design parameters and get the predicted heating and cooling loads.
 | `app.py` | Streamlit web app |
 | `model.pkl` | Trained heating and cooling models |
 | `requirements.txt` | Python dependencies |
-| notebook | Development, evaluation, and model selection |
+| `building_energy_efficiency.ipynb` | Development, evaluation, and model selection |
