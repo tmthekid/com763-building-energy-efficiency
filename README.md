@@ -4,7 +4,7 @@ A machine learning system that predicts the heating and cooling load of a
 residential building from eight design parameters. Built for COM763 Advanced
 Machine Learning.
 
-**Live app:** _add Streamlit URL after deployment_
+**Live app:** https://com763-building-energy-efficiency.streamlit.app
 
 ## Problem
 
