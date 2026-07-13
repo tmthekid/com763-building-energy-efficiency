@@ -19,9 +19,9 @@ tool during design.
 
 The [UCI Energy Efficiency dataset](https://archive.ics.uci.edu/dataset/242/energy+efficiency)
 (768 samples). Each row describes a building via eight features and records its
-heating and cooling load. The data is a complete factorial simulation over twelve
-base building shapes crossed with glazing area, glazing distribution, and
-orientation, so it is clean and has no missing values.
+heating and cooling load. The data forms a structured simulation grid over twelve
+base building shapes, four orientations, and valid combinations of glazing area
+and glazing distribution. It is complete and contains no missing values.
 
 | Feature | Meaning |
 |---|---|
