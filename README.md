@@ -62,3 +62,9 @@ design parameters and get the predicted heating and cooling loads.
 | `model.pkl` | Trained heating and cooling models |
 | `requirements.txt` | Python dependencies |
 | `building_energy_efficiency.ipynb` | Development, evaluation, and model selection |
+
+## Author
+
+KTM Perera (S25021298@mail.glyndwr.ac.uk)
+
+Submitted for COM763 Advanced Machine Learning.
